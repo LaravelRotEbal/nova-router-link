@@ -2,7 +2,7 @@ Adds a field that generates a link using the Nova Router
 
 **Installation**
 ```
-composer require klepak/nova-router-link
+composer require laravelrotebal/nova-router-link
 ```
 
 **Usage**

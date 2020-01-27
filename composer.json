@@ -1,5 +1,5 @@
 {
-    "name": "klepak/nova-router-link",
+    "name": "laravelrotebal/nova-router-link",
     "description": "Adds a field that generates a link using the Nova Router",
     "keywords": [
         "laravel",
